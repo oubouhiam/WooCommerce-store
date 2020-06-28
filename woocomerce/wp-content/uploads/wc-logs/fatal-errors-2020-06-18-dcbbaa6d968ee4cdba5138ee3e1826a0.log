@@ -1,0 +1,26 @@
+2020-06-18T10:42:22+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\xampp\htdocs\woocomerce\wp-content\plugins\youcodeplugin\includes\class-youcodeplugin.php on line 83
+
+2020-06-18T10:42:30+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\xampp\htdocs\woocomerce\wp-content\plugins\youcodeplugin\includes\class-youcodeplugin.php on line 83
+
+2020-06-18T10:43:06+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\xampp\htdocs\woocomerce\wp-content\plugins\youcodeplugin\includes\class-youcodeplugin.php on line 217
+
+2020-06-18T13:35:07+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\woocomerce\wp-content\plugins\youcodeplugin\youcodeplugin.php:32
+Stack trace:
+#0 C:\xampp\htdocs\woocomerce\wp-settings.php(371): include_once()
+#1 C:\xampp\htdocs\woocomerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocomerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocomerce\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\woocomerce\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\woocomerce\wp-content\plugins\youcodeplugin\youcodeplugin.php on line 32
+
+2020-06-18T13:37:04+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\woocomerce\wp-content\plugins\youcodeplugin\youcodeplugin.php:35
+Stack trace:
+#0 C:\xampp\htdocs\woocomerce\wp-settings.php(371): include_once()
+#1 C:\xampp\htdocs\woocomerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocomerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocomerce\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\woocomerce\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\woocomerce\wp-content\plugins\youcodeplugin\youcodeplugin.php on line 35
+
