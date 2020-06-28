@@ -9,3 +9,11 @@ After Starting Apache and MySQL in XAMPP, follow the following steps
 3rd Step: Paste in xampp/htdocs
 
 Open a browser and go to URL "http://localhost/woocomerce"
+
+list of installed plugins
+
+- WooCommerce
+- tidio-live-chat
+- Weglot Translate
+- Yoast SEO
+- cookie-law-info
